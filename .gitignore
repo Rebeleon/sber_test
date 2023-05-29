@@ -1,0 +1,12 @@
+.venv
+venv/
+venv.bak/
+*.py[cod]
+*$py.class
+
+.idea
+*.log
+*.pot
+*.pyc
+__pycache__
+*.bak
